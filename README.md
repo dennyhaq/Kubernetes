@@ -6,4 +6,4 @@ berisi Terraform scipt untuk memudah kan membuat template for
 2. GCP (Google Cloud Platform)
 3. Azure
 4. linode
-5. baremetal/On premise
+5. baremetal/On prem
